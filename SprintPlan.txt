@@ -21,3 +21,8 @@ Sprint 2
 
 Sprint 3
 * Restrict Viewers
+
+Resource:
+* PHP
+* MySQL
+* Laravel (PHP Framework)
