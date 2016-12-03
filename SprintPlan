@@ -7,22 +7,20 @@ Blogsite
 * Users
 	- User CRUD
 	- Login
-	- Authentication
 	- Forgot Password
 	- Profile
 
 Sprint 1
-* Post CRUD
-* Comments
+* Post CRUD				5
+* Comments				8
 
 Sprint 2
-* User CRUD
-* Login
-* Authentication
-* Forgot Password
+* User CRUD				5
+* Login					3
+* Forgot Password		3
 
 Sprint 3
-* Restrict Viewers
+* Restrict Viewers		8
 
 Resource:
 * PHP
