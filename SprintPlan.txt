@@ -1,0 +1,23 @@
+* Blogs
+	- Post CRUD
+	- Comments
+	- Restrict Viewers
+* Users
+	- User CRUD
+	- Login
+	- Authentication
+	- Forgot Password
+	- Profile
+
+Sprint 1
+* Post CRUD
+* Comments
+
+Sprint 2
+* User CRUD
+* Login
+* Authentication
+* Forgot Password
+
+Sprint 3
+* Restrict Viewers
