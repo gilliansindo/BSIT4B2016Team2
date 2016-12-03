@@ -2,7 +2,7 @@ Blogsite
 
 * Blogs
 	- Post CRUD
-	- Comments
+	- Comments CRUD
 	- Restrict Viewers
 * Users
 	- User CRUD
