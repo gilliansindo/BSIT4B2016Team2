@@ -3,7 +3,7 @@
 BSIT 4B A.Y. 2016-2017 Official Repository for Elective Subject
 
 ##Members:
-Carinan, Wilmar Paul A.
-Miranda, Dianne
-Sindo, Giliian
-Banac, Christopher
+- Carinan, Wilmar Paul A.
+- Miranda, Dianne
+- Sindo, Giliian
+- Banac, Christopher
