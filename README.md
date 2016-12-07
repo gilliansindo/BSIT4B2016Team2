@@ -14,8 +14,8 @@ It is a PHP/MySQL web application written in Laravel framework for the purpose o
 The users can register, sign in, and post blogs/articles.
 
 ##Features:
-- [Laravel]
-- [Bootstrap]
+- [Laravel](laravel.com)
+- [Bootstrap](getbootstrap.com)
 
 ##Installation instructions:
 
