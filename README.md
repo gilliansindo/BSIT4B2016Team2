@@ -29,4 +29,4 @@ The users can register, sign in, and post blogs/articles.
 7. Enjoy!
 
 [1]: https://laravel.com
-[2]: getbootstrap.com
+[2]: http://getbootstrap.com
