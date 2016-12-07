@@ -14,8 +14,8 @@ It is a PHP/MySQL web application written in Laravel framework for the purpose o
 The users can register, sign in, and post blogs/articles.
 
 ##Features:
-- [Laravel](laravel.com)
-- [Bootstrap](getbootstrap.com)
+- [Laravel][1]
+- [Bootstrap][2]
 
 ##Installation instructions:
 
@@ -27,3 +27,6 @@ The users can register, sign in, and post blogs/articles.
 5. Run "php artisan serve" to run the application
 6. Open up the browser and navigate to "localhost:8000" to see it in action
 7. Enjoy!
+
+[1]: https://laravel.com
+[2]: getbootstrap.com
