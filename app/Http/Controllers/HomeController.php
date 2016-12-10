@@ -71,12 +71,24 @@ class HomeController extends Controller
         ]);
         
         $post = Post::find($request->post_id);
+
+        if($request->has('delete')){
+            $post->active=0;
+            $message = 'Post succesfully deleted!';
+            return var_dump('hghfhfhfh');
+        }
+
         $post->update([
-            'content' => $request->content
+            'content' => $request->content,
+            'active' => $post->active
+
         ]);
+
+
 
         return back();
 
         // return var_dump($post);
     }
+
 }

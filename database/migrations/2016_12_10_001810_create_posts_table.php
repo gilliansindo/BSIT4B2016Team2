@@ -21,7 +21,7 @@ class CreatePostsTable extends Migration
                   ->onDelete('cascade');
             $table->text('content');
             $table->string('filepath')->nullable();
-            $table->integer('active',1)->default(1);
+            $table->integer('active')->default(1);
             $table->timestamps();
         });
     }
