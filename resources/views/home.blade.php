@@ -22,7 +22,7 @@
                         <form class="form" method="POST" action="/home/post" enctype="multipart/form-data">
                             {{ csrf_field() }}
                             <div class="form-group">
-                                <textarea name="content" placeholder="What's on your mind?" class="form-control"></textarea>
+                                <textarea name="content" placeholder="What's on your mind?" class="form-control" required=""></textarea>
                             </div>
                             {{-- <div class="form-group">
                                 <input type="file" name="file_upload" class="form-control"> --}}
@@ -36,6 +36,7 @@
 
             <ul class="list-group">
                 @foreach($posts as $post)
+                    @if($post->active == 1)
                     <li class="list-group-item">
                         <div class="panel panel-default">
                             <div class="panel-heading">
@@ -93,6 +94,7 @@
                         </div>
                     </li>
                     <hr />
+                    @endif
                 @endforeach
                 {{ $posts->links() }}
             </ul>
