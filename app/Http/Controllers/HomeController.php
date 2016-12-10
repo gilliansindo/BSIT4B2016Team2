@@ -72,10 +72,16 @@ class HomeController extends Controller
         
         $post = Post::find($request->post_id);
 
+        if($request->has('save')){
+            $request->content;
+            $message = 'Post succesfully edited!';
+            $post->save();
+        }
+
         if($request->has('delete')){
             $post->active=0;
             $message = 'Post succesfully deleted!';
-            return var_dump('hghfhfhfh');
+            $post->save();
         }
 
         $post->update([
