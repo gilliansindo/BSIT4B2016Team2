@@ -1,0 +1,20 @@
+University Scheduler
+* Users
+    - User CRUD
+    - Login
+	- Forgot Password
+    - User/Admin Settings
+    - User Restriction
+
+* Events
+    - Event CRUD
+    - Calendar Planner Feature
+
+Sprints
+* Sprint 1
+	- 
+
+Resource:
+* PHP
+* MySQL
+* Laravel (PHP Framework)
