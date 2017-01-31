@@ -3,14 +3,19 @@ University Scheduler
 * Users
     - User CRUD						8
     - Login							3
-	- Forgot Password				5
-    - User/Admin Settings			3
+	- Forgot Password				8
+    - User Settings					5
     - User Restriction				5
 
 * Events
     - Event CRUD					8
     - Calendar Planner Feature		13
     - Event Notifications			13
+
+* Admin's Task
+	- Log Tracking					5
+	- Manage Users					3
+	- Manage Events					3
 
 Sprints
 * Sprint 1
@@ -22,10 +27,9 @@ Sprints
 * Sprint 3
 	- Event Notifications
 	- Forgot Password
-* Sprint 4
 	- User Restriction
-	- User/Admin Settings
-Resource:
-* PHP
-* MySQL
-* Laravel (PHP Framework)
+* Sprint 4
+	- User Settings
+	- Manage Users
+	- Manage Events
+	- Log Tracking
