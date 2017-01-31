@@ -1,20 +1,30 @@
 University Scheduler
+
 * Users
-    - User CRUD
-    - Login
-	- Forgot Password
-    - User/Admin Settings
-    - User Restriction
+    - User CRUD						8
+    - Login							3
+	- Forgot Password				5
+    - User/Admin Settings			3
+    - User Restriction				5
 
 * Events
-    - Event CRUD
-    - Calendar Planner Feature
-    - Event Notifications
+    - Event CRUD					8
+    - Calendar Planner Feature		13
+    - Event Notifications			13
 
 Sprints
 * Sprint 1
-	- 
-
+	- User CRUD
+	- Login
+* Sprint 2
+	- Calendar Planner Feature
+	- Event CRUD
+* Sprint 3
+	- Event Notifications
+	- Forgot Password
+* Sprint 4
+	- User Restriction
+	- User/Admin Settings
 Resource:
 * PHP
 * MySQL
